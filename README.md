@@ -48,4 +48,4 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 ## 🔗 Connect
 
 - 📧 Email: [your-email@example.com]  
-- 🔗 LinkedIn: [your LinkedIn URL]  
+- 🔗 LinkedIn:   
