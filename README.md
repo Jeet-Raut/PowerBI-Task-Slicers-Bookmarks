@@ -35,7 +35,7 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 ## 🖼️ Dashboard Preview
 
 > *(Upload a screenshot of your dashboard and reference it here)*  
-> Example:  
+ 
 
 
 
