@@ -36,7 +36,8 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 
 > *(Upload a screenshot of your dashboard and reference it here)*  
 > Example:  
-> `![Dashboard Preview](dashboard-preview.png)`
+
+
 
 ## 🧠 Learnings
 
