@@ -33,7 +33,7 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 - 🎯 User-focused design for executives (CEO & CMO)  
 
 ## 🖼️ Dashboard Preview
-
+> *(Upload a screenshot of your \
 
  
 
