@@ -32,11 +32,6 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 - 📉 Trend analysis using line and bar charts  
 - 🎯 User-focused design for executives (CEO & CMO)  
 
-## 🖼️ Dashboard Preview
-> *(Upload a screenshot of your \
-
- 
-
 
 
 ## 🧠 Learnings
