@@ -43,4 +43,4 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 ## 🔗 Connect
 
 - 📧 Email:   
-- 🔗 LinkedIn:   https://linkedin.com/in/JeetRaut26
+- 🔗 LinkedIn: https://linkedin.com/in/JeetRaut26
