@@ -18,11 +18,6 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 - Implement **slicers** for filtering data by category, region, and time  
 - Add **bookmarks** to enable quick navigation and storytelling within the report  
 
-## 📁 File Included
-
-| File Name                        | Description                                    |
-|---------------------------------|------------------------------------------------|
-| `Slicer+BookmarkPBIproject.pbix` | Power BI project file with slicers and bookmarks |
 
 ## 📈 Key Features
 
