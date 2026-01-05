@@ -9,7 +9,7 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 - **Task:** Power BI – Slicers & Bookmarks  
 - **Author:** Jeetu Raut
 - **Tool Used:** Power BI Desktop (.pbix)  
-- **File Name:** `Slicer+BookmarkPBIproject.pbix`  
+- **File Name:** `Slicer+BookmarkPBIproject.pbix` 
 - **Date:** July 2025 
 
 ## 📌 Objectives
