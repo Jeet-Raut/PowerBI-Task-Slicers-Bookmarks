@@ -1,5 +1,5 @@
 # 📊 Power BI Task – Slicers & Bookmarks (InfoOrigin Internship)
- 
+
 This repository contains one of my Power BI projects developed during the **InfoOrigin Data Engineering Internship**.  
 The task focused on implementing **slicers and bookmarks** to enhance the interactivity and usability of the dashboard.
 
