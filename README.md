@@ -8,7 +8,7 @@ The task focused on implementing **slicers and bookmarks** to enhance the intera
 - **Internship:** InfoOrigin (Data Engineering Intern)
 - **Task:** Power BI – Slicers & Bookmarks  
 - **Author:** Jeetu Raut
-- **Tool Used:** Power BI Desktop (.pbix)  
+- **Tool Used:** Power BI Desktop (.pbix) 
 - **File Name:** `Slicer+BookmarkPBIproject.pbix` 
 - **Date:** July 2025 
 
