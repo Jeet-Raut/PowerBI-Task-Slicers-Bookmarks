@@ -4,7 +4,7 @@ This repository contains one of my Power BI projects developed during the **Info
 The task focused on implementing **slicers and bookmarks** to enhance the interactivity and usability of the dashboard.
 
 ## 🧠 Project Overview
-
+ 
 - **Internship:** InfoOrigin (Data Engineering Intern)
 - **Task:** Power BI – Slicers & Bookmarks  
 - **Author:** Jeetu Raut
